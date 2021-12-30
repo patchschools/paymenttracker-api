@@ -1,0 +1,1 @@
+web: java -jar target/paymenttracker-api-1.0.jar
